@@ -8,6 +8,12 @@ If you are looking to understand how to structure a modern data analytics projec
 
 - Topic focus: amazon, azurite, business-intelligence, cloud, dashboard, data-analysis, data-visualization, database, dynamicdatasource, forecasting, machine-learning-algorithms, powerbi, prophet, python, sql.
 
+<img width="675" height="351" alt="sales performance" src="https://github.com/user-attachments/assets/a8c13592-9354-45ab-92f8-d958c71ca5e6" />
+<img width="609" height="342" alt="forecast" src="https://github.com/user-attachments/assets/1e0f69bc-02ef-4443-abef-7cd139c4db79" />
+<img width="602" height="344" alt="product perf" src="https://github.com/user-attachments/assets/49cc8f9e-e85d-45f5-8219-39ef798136db" />
+<img width="603" height="344" alt="growth" src="https://github.com/user-attachments/assets/12e65499-7688-4644-8ae8-a500327ac1ca" />
+
+
 Architecture at a glance
 - A clean data flow from raw source data to refined data stores.
 - SQL-based analytics for fast, repeatable reporting.
